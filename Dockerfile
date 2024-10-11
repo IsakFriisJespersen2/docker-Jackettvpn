@@ -1,6 +1,6 @@
 # Jackett and OpenVPN, JackettVPN
 
-FROM raspbian/stretch
+FROM navikey/raspbian-buster
 MAINTAINER gjeanmart
 
 ENV DEBIAN_FRONTEND noninteractive
